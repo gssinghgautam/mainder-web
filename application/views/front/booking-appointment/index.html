@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>Book an Appointment | Hindu Sanatan Mandir</title>
+      <!-- Font Icon -->
+      <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
+      <!-- Main css -->
+      <link rel="stylesheet" href="css/style.css">
+   </head>
+   <body>
+      <div class="main">
+         <div class="container">
+            <form method="POST" class="appointment-form" id="appointment-form">
+               <h2>Book An Appointment with Pandit Ji</h2>
+               <div class="form-group-1">
+                  <input type="text" name="title" id="title" placeholder="Title" required />
+                  <input type="text" name="name" id="name" placeholder="Your Name" required />
+                  <input type="email" name="email" id="email" placeholder="Email" required />
+                  <input type="number" name="phone_number" id="phone_number" placeholder="Phone number" required />
+                  <div class="select-list">
+                     <select name="course_type" id="course_type">
+                        <option slected value="">Select Pooja</option>
+                        <option value="1">Murti Pranpratishtha</option>
+                        <option value="2">Ati Rudra Pooja</option>
+                        <option value="3">Maha Rudra Pooja</option>
+                        <option value="4">Laghu Rudra</option>
+                        <option value="5">Rudra Abhishek</option>
+                        <option value="6">Ghat Sthapna</option>
+                        <option value="7">Nav Grah Shanti</option>
+                        <option value="8">Vastu Shanti</option>
+                        <option value="9">Nakshatra Shanti</option>
+                        <option value="10">Kaal Sarp Yog</option>
+                        <option value="11">Navchandi Yagna</option>
+                        <option value="12">Ganesh Yagna</option>
+                        <option value="13">Vishnu Yagna</option>
+                        <option value="14">Maha Mrityunjay Jap</option>
+                        <option value="42">Narayanbali Pitrushraddh Vidhi</option>
+                        <option value="other">Other</option>
+                     </select>
+                  </div>
+                  <label for="bookingTime">Birthday (date and time):</label>
+                  <input type="datetime-local" id="bookingTime" name="bookingTime" placeholder="Booking Date and Time">
+                  <input type="email" name="address" id="address" placeholder="Addresss" required />
+                  <input type="comment" name="detail" id="detail" placeholder="Details" required />
+               </div>
+               <div class="form-check">
+                  <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
+                  <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree to the  <a href="#" class="term-service">Terms and Conditions</a></label>
+               </div>
+               <div class="form-submit">
+                  <input type="submit" name="submit" id="submit" class="submit" value="Request an appointment" />
+               </div>
+            </form>
+         </div>
+      </div>
+      <!-- JS -->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="js/main.js"></script>
+   </body>
+   <!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>

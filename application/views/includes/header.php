@@ -44,7 +44,7 @@
           <!-- mini logo for sidebar mini 50x50 pixels -->
           <span class="logo-mini"><b>DLS</b></span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b>DigiLodge</b></span>
+          <span class="logo-lg"><b>Hindu Sanatan Mandir</b></span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
@@ -56,7 +56,7 @@
             <ul class="nav navbar-nav">
               <li class="dropdown user user-menu">
                 <a href="<?php echo base_url(); ?>addNewBooking">
-                  <span class=""><i class="fa fa-plus"></i><b> Add New Booking</b></span>
+                  <span class=""><i class="fa fa-plus"></i><b> Add Appointment</b></span>
                 </a>
               <li>
               <!-- User Account: style can be found in dropdown.less -->

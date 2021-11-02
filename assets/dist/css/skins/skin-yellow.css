@@ -71,7 +71,7 @@
 .skin-yellow .wrapper,
 .skin-yellow .main-sidebar,
 .skin-yellow .left-side {
-    background-color: #bb6108;
+    background-color: #F7E4D9;
 }
 
 .skin-yellow .user-panel>.info,
@@ -81,7 +81,7 @@
 
 .skin-yellow .sidebar-menu>li.header {
     color: #fff;
-    background: #bb6108;
+    background: #F7E4D9;
 }
 
 .skin-yellow .sidebar-menu>li>a {
@@ -91,7 +91,7 @@
 .skin-yellow .sidebar-menu>li:hover>a,
 .skin-yellow .sidebar-menu>li.active>a {
     color: #ffffff;
-    background: #FF4500;
+    background: #B22F30;
     border-left-color: #f39c12;
 }
 

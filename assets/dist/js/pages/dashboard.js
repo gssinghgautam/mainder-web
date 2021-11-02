@@ -143,7 +143,7 @@ $(function () {
     xkey: 'y',
     ykeys: ['item1', 'item2'],
     labels: ['Item 1', 'Item 2'],
-    lineColors: ['#a0d0e0', '#FF4500'],
+    lineColors: ['#a0d0e0', '#B22F30'],
     hideHover: 'auto'
   });
   var line = new Morris.Line({
@@ -180,7 +180,7 @@ $(function () {
   var donut = new Morris.Donut({
     element: 'sales-chart',
     resize: true,
-    colors: ["#FF4500", "#f56954", "#00a65a"],
+    colors: ["#B22F30", "#f56954", "#00a65a"],
     data: [
       {label: "Download Sales", value: 12},
       {label: "In-Store Sales", value: 30},

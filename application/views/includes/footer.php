@@ -2,9 +2,9 @@
 
     <footer class="main-footer">
         <div class="pull-right hidden-xs">
-          <b>DigiLodge</b> Digital Lodging System | Version 1.0
+        <p>Copyright © 2021 <a href="https://agrim.no/">Agrim</a> | Designed by <a href="https://agrim.no/">Agrim</a>
+                  </p>
         </div>
-        <strong>Copyright &copy; 2014-2015 <a href="<?php echo base_url(); ?>">DigiLodge</a>.</strong> All rights reserved.
     </footer>
     
     <!-- jQuery UI 1.11.2 -->

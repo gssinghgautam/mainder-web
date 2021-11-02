@@ -66,7 +66,7 @@
 .skin-red .wrapper,
 .skin-red .main-sidebar,
 .skin-red .left-side {
-    background-color: #bb6108
+    background-color: #F7E4D9
 }
 
 .skin-red .user-panel>.info,
@@ -76,7 +76,7 @@
 
 .skin-red .sidebar-menu>li.header {
     color: #fff;
-    background: #bb6108
+    background: #F7E4D9
 }
 
 .skin-red .sidebar-menu>li>a {
@@ -86,7 +86,7 @@
 .skin-red .sidebar-menu>li:hover>a,
 .skin-red .sidebar-menu>li.active>a {
     color: #fff;
-    background: #FF4500;
+    background: #B22F30;
     border-left-color: #dd4b39
 }
 

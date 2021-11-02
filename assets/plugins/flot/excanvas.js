@@ -353,7 +353,7 @@ if (!document.createElement('canvas').getContext) {
     oldlace: '#FDF5E6',
     olivedrab: '#6B8E23',
     orange: '#FFA500',
-    orangered: '#FF4500',
+    orangered: '#B22F30',
     orchid: '#DA70D6',
     palegoldenrod: '#EEE8AA',
     palegreen: '#98FB98',

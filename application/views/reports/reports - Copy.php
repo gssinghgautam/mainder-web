@@ -2,7 +2,7 @@
 	<link rel="stylesheet" href="<?php echo base_url()?>static/node_modules/fullcalendar/dist/fullcalendar.print.min.css"  type="text/css" media="print">
 	<link rel="stylesheet" href="<?php echo base_url()?>static/css/bootstrap.min.css"  type="text/css">
 	<style>
-		body{margin:40px 10px;padding:0;font-family:"Lucida Grande",Helvetica,Arial,Verdana,sans-serif;font-size:14px}#calendar{max-width:900px;margin:0 auto}
+		body{padding:0;font-family:"Lucida Grande",Helvetica,Arial,Verdana,sans-serif;font-size:14px}#calendar{max-width:900px;margin:0 auto}
 	</style>
 
 	<div class="content-wrapper">
@@ -26,7 +26,7 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="myModalLabel">Add Appointment</h4>
+                            <h4 class="modal-title" id="myModalLabel"> Add Appointment</h4>
                         </div>
                         <div class="modal-body">
                             <div class="form-group">

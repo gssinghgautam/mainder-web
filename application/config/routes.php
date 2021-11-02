@@ -73,7 +73,7 @@ $route['addedNewconnectDetails'] = "home/addedNewconnectDetails";
 /*********** USER DEFINED ROUTES *******************/
 
 $route['loginMe'] = 'login/loginMe';
-$route['dashboard'] = 'user';
+$route['dashboard'] = 'reports/index';
 $route['logout'] = 'user/logout';
 
 $route['userListing'] = 'user/userListing';

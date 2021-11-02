@@ -5,11 +5,8 @@ $selected = "selected='selected'";
     <!-- Content Header (Page header) -->
     <section class="content-header">
         <h1>
-            <i class="fa fa-book" aria-hidden="true"></i> Bookings
-            <small>Add, Edit, Delete</small>
-            <span class='pull-right'>
-                <a class="btn btn-primary btn-lg" href="<?= base_url(); ?>addNewBooking"><i class="fa fa-plus" aria-hidden="true"></i> Add New Booking</a>
-            </span>
+            <i class="fa fa-book" aria-hidden="true"></i> Appointments
+            
         </h1>
     </section>
     <br>

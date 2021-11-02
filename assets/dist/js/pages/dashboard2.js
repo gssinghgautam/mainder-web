@@ -120,8 +120,8 @@ $(function () {
     },
     {
       value: 300,
-      color: "#FF4500",
-      highlight: "#FF4500",
+      color: "#B22F30",
+      highlight: "#B22F30",
       label: "Opera"
     },
     {

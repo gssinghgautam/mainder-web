@@ -22,7 +22,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.3.31"
+                "php": "7.3.31"
             },
             "require-dev": {
                 "doctrine/coding-standard": "^8.0",
@@ -1592,7 +1592,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.3.31 <=7.3.32"
+        "php": "7.3.31"
     },
     "platform-dev": [],
     "plugin-api-version": "2.1.0"

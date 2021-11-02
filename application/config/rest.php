@@ -600,7 +600,7 @@ $config['allow_any_cors_domain'] = false;
 | Used if $config['check_cors'] is set to TRUE and $config['allow_any_cors_domain']
 | is set to FALSE. Set all the allowable domains within the array
 |
-| e.g. $config['allowed_origins'] = ['http://www.example.com', 'https://spa.example.com']
+| e.g. $config['allowed_origins'] = ['https://www.example.com', 'https://spa.example.com']
 |
 */
 $config['allowed_cors_origins'] = [];
@@ -621,7 +621,7 @@ $config['allowed_cors_origins'] = [];
 | Access-Control-Allow-Credentials to be set to true to allow the use of
 | credentials in the REST Proxy. 
 | See documentation here:
-| http://docs.sencha.com/extjs/6.5.2/classic/Ext.data.proxy.Rest.html#cfg-withCredentials
+| https://docs.sencha.com/extjs/6.5.2/classic/Ext.data.proxy.Rest.html#cfg-withCredentials
 |
 */
 $config['forced_cors_headers'] = [];

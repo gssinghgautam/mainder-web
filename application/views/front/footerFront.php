@@ -18,7 +18,7 @@
       </div>
       <!-- /.peace layout end -->
       <!-- js include -->
-      <script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=true&#038;ver=1.0'></script>
+      <script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=true&#038;ver=1.0'></script>
       <script type='text/javascript' src='<?php echo base_url(); ?>assets/front/js/plugins.js'></script>
       <script type='text/javascript' src='<?php echo base_url(); ?>assets/front/js/masterslider.min.js'></script>
       <script type='text/javascript' src='<?php echo base_url(); ?>assets/front/js/functions.js'></script>

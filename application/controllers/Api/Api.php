@@ -27,7 +27,7 @@ class Api extends REST_Controller
      *
      * @return Response
      */
-    /* http://localhost/panditjee/api/api/appoinment?id=6 */
+    /* https://localhost/panditjee/api/api/appoinment?id=6 */
 
     /* Get Appoinment GET API */
 
@@ -62,7 +62,7 @@ class Api extends REST_Controller
     }
 
     /* Get Event List GET API */
-    /* http://localhost/panditjee/api/api/event  */
+    /* https://localhost/panditjee/api/api/event  */
     public function event_get()
     {
         $auth = $this->input->get_request_header('Authorization');
@@ -96,7 +96,7 @@ class Api extends REST_Controller
         $this->response($res);
     }
     /* Add New Booking API POST */
-    /* http://localhost/panditjee/api/api/addedNewBooking  */
+    /* https://localhost/panditjee/api/api/addedNewBooking  */
     function addedNewBooking_post()
     {       
         $auth = $this->input->get_request_header('Authorization');
@@ -164,7 +164,7 @@ class Api extends REST_Controller
     }
 
     /* GET Sunrise Sunset GET API */
-    /* http://localhost/panditjee/api/api/sunrisesunset */
+    /* https://localhost/panditjee/api/api/sunrisesunset */
     function sunrisesunset_get()
     {
         $auth = $this->input->get_request_header('Authorization');

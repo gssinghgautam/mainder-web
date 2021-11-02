@@ -78,7 +78,7 @@
          
          
                      $("head")
-                         .append("<link rel='stylesheet' id='ms-fonts'  href='//fonts.googleapis.com/css?family=Roboto:900,regular' type='text/css' media='all' />");
+                         .append("<link rel='stylesheet' id='ms-fonts'  href='https//fonts.googleapis.com/css?family=Roboto:900,regular' type='text/css' media='all' />");
          
                      window.masterslider_instances = window.masterslider_instances || [];
                      window.masterslider_instances.push(masterslider_df7d);

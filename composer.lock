@@ -22,7 +22,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.3.31"
+                "php": "7.3.31"
             },
             "require-dev": {
                 "doctrine/coding-standard": "^8.0",

@@ -71,7 +71,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | the query builder class.
 */
 //Get Heroku ClearDB connection information
-$cleardb_url      = parse_url(getenv("CLEARDB_DATABASE_URL"));
+$cleardb_url      = parse_url('mysql://b2279763a72c62:9ff750a2@us-cdbr-east-04.cleardb.com/heroku_633836315656538?reconnect=true');
 $cleardb_server   = $cleardb_url["host"];
 $cleardb_username = $cleardb_url["user"];
 $cleardb_password = $cleardb_url["pass"];

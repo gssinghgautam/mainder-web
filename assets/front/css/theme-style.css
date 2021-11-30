@@ -3552,7 +3552,9 @@ h2.widget-title:after {
 }
 /* #footer
 ---------------------------------------------------------------*/
-
+footer{
+    position: sticky;
+}
 footer.entry-footer {
     margin-bottom: 10px;
     display: table;

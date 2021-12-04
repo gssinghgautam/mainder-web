@@ -35,7 +35,7 @@
                <div class="col-sm-4 hidden-xs address">
                   <div class="pull-left">
                      <ul>
-                        <li>Welcome to Official Website of Shree Swaminarayan Mandir Vadtal</li>
+                        <li style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir, Drammen, Norway.</li>
                      </ul>
                   </div>
                   <!-- pull left  -->
@@ -51,13 +51,7 @@
                      <li><a href="https://www.facebook.com/HinduSanatanMandir" target="_blank"><i class="fa fa-facebook"></i><span></span></a>
                      </li>
                   </ul>
-                  <div id="site-search">
-                     <a href="#"><i class="fa fa-search"></i></a>
-                     <form class="search-form" action="#" method="get">
-                        <input type="text" name="s" id="topSearchField" class="form-control" value="" placeholder="Type &amp; Hit Enter...">
-                        <i class="fa fa-close"></i>
-                     </form>
-                  </div>
+                
                   <!--   site search  -->
                   <!--  top cart  -->
                </div>

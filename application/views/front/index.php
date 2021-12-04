@@ -206,7 +206,7 @@
             <div class="pooja pooja2">
                <div class="head">MARRIAGE</div>
                <div class="contenet">
-                  According to Hindu beliefs are made in heaven. It is considered to be a turning point in an individual’s life as he enters the second important phase or ashram of his life the ‘Garhasthyaashram’.
+                  Marriages are made in heaven. It is considered to be a turning point as one enters in second important phase of life.
                </div>
                <!-- end content -->
             </div>
@@ -214,7 +214,7 @@
             <div class="pooja pooja3">
                <div class="head">BHOOMI POOJA</div>
                <div class="contenet">
-                  Bhoomi pooja is a ritual performed in honour of Goddess Bhoomi and Vastu Purush. This pooja is believed to eradicate the ill effects and Vastu doshas in the land and pave the way for a smooth construction.
+                  Bhoomi pooja is a ritual performed in honour of Goddess Bhoomi and Vastu Purush. This pooja is believed to eradicate the ill effects.
                </div>
                <!-- end content -->
             </div>
@@ -299,7 +299,7 @@
             <div class="darson darson1">
                <div class="head">Mundan Sanskar</div>
                <div class="contenet">
-                  Mundan is the act of shaving the baby's first hair on the head. This is important in Hindu tradition.
+                  Monday is the act of shaving the baby's first hair on the head. This is important in Hinduism.
                </div>
                <!-- end content -->
             </div>
@@ -307,15 +307,15 @@
             <div class="darson darson2">
                <div class="head">Antim Sanskar Pooja</div>
                <div class="contenet">
-                  Antim Sanskar is the set of rituals performed for the person who dies so that their Soul gets peace. The human body consist of five elements in Hindu– air, water, fire, earth and space.
+                 Antim Sanskar is the set of rituals performed for the person who dies so that their Soul gets peace.
                </div>
                <!-- end content -->
             </div>
             <!-- end darson -->
             <div class="darson darson3">
-               <div class="head">CAR POOJA</div>
+               <div class="head">VAAHAN POOJA</div>
                <div class="contenet">
-                  A car puja is a Hindu ceremony blessing an automobile to keep it from bad influences and to bless it in God's name. Hindus often perform pujas for items used in daily life: houses, motor vehicles etc.
+                  Vaahan is a Hindu ceremony blessing an automobile to keep it from bad influences and to bless it in God's name. Hindus often perform pujas for items used in daily life: houses, motor vehicles etc.
                </div>
                <!-- end content -->
             </div>

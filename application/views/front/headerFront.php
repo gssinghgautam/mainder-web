@@ -35,7 +35,7 @@
                <div class="col-sm-6 hidden-xs address">
                   <div class="pull-left">
                      <ul>
-                        <p style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir, Drammen, Norway.</>
+                        <li style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir, Drammen, Norway.</li>
                      </ul>
                   </div>
                   <!-- pull left  -->

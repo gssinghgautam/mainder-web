@@ -18,7 +18,7 @@ $selected = "selected='selected'";
                     <select class="form-control input-sm" id="accept_rejected" name="accept_rejected">
                         <option value="">Select Type</option>
                         <option value="0">All</option>
-                        <option value="1">Accpted</option>
+                        <option value="1">Accepted</option>
                         <option value="2">Rejected</option>
                         </option>
                     </select>
@@ -187,7 +187,7 @@ $selected = "selected='selected'";
                                             <?php } ?>
                                         </td>
                                         <td class="text-center">
-                                            <a href="<?php echo base_url() . 'booking/bookingInfo/' . $record->bookingId; ?>" class="btn btn-sm btn-warning" title="Information"><i class="fa fa-info-circle"></i></a>
+                                           <!--  <a href="<?php echo base_url() . 'booking/bookingInfo/' . $record->bookingId; ?>" class="btn btn-sm btn-warning" title="Information"><i class="fa fa-info-circle"></i></a> -->
                                             <a href="<?php echo base_url() . 'booking/editOldBooking/' . $record->bookingId; ?>" class="btn btn-sm btn-info" title="Edit"><i class="fa fa-pencil"></i></a>
                                             <a href="" data-bookid="<?php echo $record->bookingId; ?>" class="deleteBooking btn btn-sm btn-danger" title="Delete"><i class="fa fa-trash"></i></a>
                                         </td>

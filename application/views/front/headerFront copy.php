@@ -35,15 +35,21 @@
                <div class="col-sm-4 hidden-xs address">
                   <div class="pull-left">
                      <ul>
-                        <li>Welcome to Official Website of Shree Swaminarayan Mandir Vadtal</li>
+                        <li><i class="fa fa-phone"></i>+47 32 89 49 57</li>
+                        <li><i class="fa fa-envelope-o"></i><a href="mailto:hsanatan@gmail.com">hsanatan@gmail.com</a></li>
                      </ul>
                   </div>
                   <!-- pull left  -->
                </div>
                <!-- /.address -->
-              
-
-
+             <!--  
+               <div class="col-sm-4 col-xs-12">
+                  <div class="logo text-center">
+                     <a href="index"> <img src="<?php echo base_url(); ?>assets/front/images/09/logo.png" height="120" width="120" alt="Peace" /> </a>
+                  </div>
+                  <!-- /.logo -->
+               </div>
+ -->
 
                <!-- col sm 4 -->
                <div class="social-search pull-right hidden-xs">

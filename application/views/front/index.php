@@ -206,7 +206,7 @@
             <div class="pooja pooja2">
                <div class="head">MARRIAGE</div>
                <div class="contenet">
-                  Marriages are made in heaven. It is considered to be a turning point as one enters in an important phase of life.
+                  Marriages are considered to be a turning point as one enters in an important phase of life.
                </div>
                <!-- end content -->
             </div>

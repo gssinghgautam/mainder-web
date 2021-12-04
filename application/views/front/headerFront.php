@@ -32,7 +32,7 @@
       <div id="peace-layout">
          <header id="top-section">
             <div class="container">
-               <div class="col-sm-4 hidden-xs address">
+               <div >
                   <div class="pull-left">
                      <ul>
                         <p style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir, Drammen, Norway.</p>

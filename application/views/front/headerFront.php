@@ -29,13 +29,13 @@
       </div>
       <!-- /#preloader -->
       <!-- peace layout start. -->
-      <div id="peace-layout">
+      <div id="peace-layout" style="background:#F7E4D9">
          <header id="top-section">
             <div class="container">
-               <div >
+               <div class="col-sm-6 hidden-xs address">
                   <div class="pull-left">
                      <ul>
-                        <p style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir, Drammen, Norway.</p>
+                        <p style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir, Drammen, Norway.</>
                      </ul>
                   </div>
                   <!-- pull left  -->

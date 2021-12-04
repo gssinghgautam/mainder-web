@@ -35,7 +35,7 @@
                <div class="col-sm-4 hidden-xs address">
                   <div class="pull-left">
                      <ul>
-                        <li>Welcome to Official Website of Shree Swaminarayan Mandir Vadtal.</li>
+                        <li style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir Drammen, Norway.</li>
                      </ul>
                   </div>
                   <!-- pull left  -->

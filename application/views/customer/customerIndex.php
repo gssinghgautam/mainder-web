@@ -1,12 +1,12 @@
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
-    <section class="content-header">
+   <!--  <section class="content-header">
       <h1>
         <i class="fa fa-users" aria-hidden="true"></i> Customer Management
         <small>Add, Edit, Delete</small>
         <span class='pull-right'><a class="btn btn-primary" href="<?php echo base_url(); ?>addNewCustomer"><i class="fa fa-plus" aria-hidden="true"></i> Add New Customer</a></span>
       </h1>
-    </section>
+    </section> -->
     <section class="content">
         <!-- <div class="row">
             <div class="col-xs-12 text-right">

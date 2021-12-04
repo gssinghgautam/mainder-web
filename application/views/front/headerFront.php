@@ -29,7 +29,7 @@
       </div>
       <!-- /#preloader -->
       <!-- peace layout start. -->
-      <div id="peace-layout">
+      <div id="peace-layout" style="background: #F7E4D9;">
          <header id="top-section">
             <div class="container">
                <div class="col-sm-4 hidden-xs address">

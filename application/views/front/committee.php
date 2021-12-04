@@ -15,7 +15,7 @@
                                  <div class="row">
                                     <div class="heading-title text-center">
                                        <h3 class="text-uppercase">Our management committee </h3>
-                                       <!--   <p class="p-top-30 half-txt">Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. </p> -->
+                                      
                                     </div>
                                    
                                     <div class="col-md-4 col-sm-4">

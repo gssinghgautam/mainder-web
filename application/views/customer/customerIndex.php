@@ -19,7 +19,7 @@
             <div class="col-xs-12">
               <div class="box">
                 <div class="box-header">
-                    <h3 class="box-title">Customer List</h3>
+                    <h3 class="box-title">Website Users Queries</h3>
                     <div class="box-tools">
                         <form action="<?php echo base_url() ?>customerListing" method="POST" id="searchList">
                             <div class="input-group">

@@ -206,7 +206,7 @@
             <div class="pooja pooja2">
                <div class="head">MARRIAGE</div>
                <div class="contenet">
-                  Marriages are made in heaven. It is considered to be a turning point as one enters in second important phase of life.
+                  Marriages are made in heaven. It is considered to be a turning point as one enters in an important phase of life.
                </div>
                <!-- end content -->
             </div>
@@ -315,7 +315,7 @@
             <div class="darson darson3">
                <div class="head">VAAHAN POOJA</div>
                <div class="contenet">
-                  Vaahan is a Hindu ceremony blessing an automobile to keep it from bad influences and to bless it in God's name. Hindus often perform pujas for items used in daily life: houses, motor vehicles etc.
+                  Vahan Poojan is to keep it from bad influences and to bless it in God's name. Hindus often perform pujas for items used in daily life.
                </div>
                <!-- end content -->
             </div>

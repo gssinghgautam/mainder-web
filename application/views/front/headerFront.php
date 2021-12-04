@@ -48,16 +48,12 @@
                <!-- col sm 4 -->
                <div class="social-search pull-right hidden-xs">
                   <ul>
-                     <li><a href="https://www.facebook.com/HinduSanatanMandir" target="_blank"><i class="fa fa-facebook"></i><span></span></a>
+                     <li><a href="https://www.facebook.com/HinduSanatanMandir" target="_blank"><i class="fa fa-facebook"></i><span></span>
+                     
+                     </a>
                      </li>
                   </ul>
-                  <div id="site-search">
-                     <a href="#"><i class="fa fa-search"></i></a>
-                     <form class="search-form" action="#" method="get">
-                        <input type="text" name="s" id="topSearchField" class="form-control" value="" placeholder="Type &amp; Hit Enter...">
-                        <i class="fa fa-close"></i>
-                     </form>
-                  </div>
+                
                   <!--   site search  -->
                   <!--  top cart  -->
                </div>

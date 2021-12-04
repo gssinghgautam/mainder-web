@@ -17,11 +17,10 @@
                                        <h3 class="text-uppercase">Our management committee </h3>
                                        <!--   <p class="p-top-30 half-txt">Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. Nam pulvinar vitae neque et porttitor. Praesent sed nisi eleifend. </p> -->
                                     </div>
+                                   
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                          
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Madan Lal Gupta</h4>
@@ -32,11 +31,10 @@
                                           <h5>President</h5>
                                        </div>
                                     </div>
+
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                          
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Abnash Gupta</h4>
@@ -47,11 +45,10 @@
                                           <h5>Vice President</h5>
                                        </div>
                                     </div>
+
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                         
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Vijay Kumar Saggar </h4>
@@ -62,6 +59,7 @@
                                           <h5>Cashier</h5>
                                        </div>
                                     </div>
+
                                  </div>
                                 <br><br>
                                  <div class="row">
@@ -70,9 +68,7 @@
                                     </div>
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                         
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Boota Mahe</h4>
@@ -85,9 +81,7 @@
                                     </div>
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                          
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Sanjay Gupta</h4>
@@ -100,9 +94,7 @@
                                     </div>
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                         
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Sumit Monga</h4>
@@ -120,9 +112,7 @@
                                     </div>
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                       
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Abhishek Ramavat</h4>
@@ -135,9 +125,7 @@
                                     </div>
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                         
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Neelam Gupta </h4>
@@ -150,9 +138,7 @@
                                     </div>
                                     <div class="col-md-4 col-sm-4">
                                        <div class="team-member">
-                                          <div class="team-img">
-                                             <img src="<?php echo base_url(); ?>assets/front/images/09/gallery10.jpg" alt="team member" class="img-responsive">
-                                          </div>
+                                         
                                           <div class="team-hover">
                                              <div class="desk">
                                                 <h4>Hasmukh Mistry</h4>

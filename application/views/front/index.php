@@ -214,7 +214,7 @@
             <div class="pooja pooja3">
                <div class="head">BHOOMI POOJA</div>
                <div class="contenet">
-                  Bhoomi pooja is a ritual performed in honour of Goddess Bhoomi and Vastu Purush. This pooja is believed to eradicate the ill effects.
+                  Bhoomi pooja is a ritual performed in honour of Goddess Bhoomi. This pooja is believed to eradicate the ill effects.
                </div>
                <!-- end content -->
             </div>

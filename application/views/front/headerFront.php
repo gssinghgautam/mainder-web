@@ -94,7 +94,7 @@
                                     </li>
                                     <li><a title="Contact us" href="contact-us">Contact us</a>
                                     </li>
-                                     <!-- <li><a title="Event Defaults" href="committee">Management Committee</a> -->
+                                     <li><a title="Management Committee" href="committee">Management Committee</a>
                                  </li>
                                  </ul>
                               </li>

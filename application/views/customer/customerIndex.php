@@ -1,12 +1,12 @@
 <div class="content-wrapper">
     <!-- Content Header (Page header) -->
-    <section class="content-header">
+   <!--  <section class="content-header">
       <h1>
         <i class="fa fa-users" aria-hidden="true"></i> Customer Management
         <small>Add, Edit, Delete</small>
         <span class='pull-right'><a class="btn btn-primary" href="<?php echo base_url(); ?>addNewCustomer"><i class="fa fa-plus" aria-hidden="true"></i> Add New Customer</a></span>
       </h1>
-    </section>
+    </section> -->
     <section class="content">
         <!-- <div class="row">
             <div class="col-xs-12 text-right">
@@ -19,7 +19,7 @@
             <div class="col-xs-12">
               <div class="box">
                 <div class="box-header">
-                    <h3 class="box-title">Customer List</h3>
+                    <h3 class="box-title">Website Users Queries</h3>
                     <div class="box-tools">
                         <form action="<?php echo base_url() ?>customerListing" method="POST" id="searchList">
                             <div class="input-group">
@@ -39,7 +39,7 @@
                       <th>Mobile</th>
                       <th>Address</th>
                       <th>Email</th>
-                      <th class="text-center">Actions</th>
+                      <!-- <th class="text-center">Actions</th> -->
                     </tr>
                     <?php
                     if(!empty($customerRecords))

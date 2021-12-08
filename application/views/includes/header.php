@@ -54,11 +54,11 @@
           </a>
           <div class="navbar-custom-menu">
             <ul class="nav navbar-nav">
-              <li class="dropdown user user-menu">
+              <!-- <li class="dropdown user user-menu">
                 <a href="<?php echo base_url(); ?>addNewBooking">
                   <span class=""><i class="fa fa-plus"></i><b> Add Appointment</b></span>
                 </a>
-              <li>
+              <li> -->
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -104,7 +104,7 @@
             <li class="treeview">
               <a href="<?php echo base_url(); ?>customer">
                 <i class="fa fa-users"></i>
-                <span>Customers</span>
+                <span>Website Users</span>
               </a>
             </li>
             <li class="treeview">

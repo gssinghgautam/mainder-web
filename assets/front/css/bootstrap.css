@@ -25,7 +25,9 @@ menu,
 nav,
 section,
 summary {
-  display: block; }
+  display: block;
+  background-color: #F7E4D9;
+  background: #F7E4D9; }
 
 audio,
 canvas,

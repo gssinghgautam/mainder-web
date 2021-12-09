@@ -7,7 +7,23 @@
     <link href="<?php echo base_url(); ?>assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
     <link href="<?php echo base_url(); ?>assets/dist/css/AdminLTE.min.css" rel="stylesheet" type="text/css" />
-
+    
+    <link rel='stylesheet' type='text/css' media='all' href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.css" />
+    <script src="<?php echo base_url(); ?>assets/js/jQuery-2.1.4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js"></script>
+      
+    <script>
+        (function ($){
+          window.alertMessage = function (message, type){
+              $.alert({
+                title: type == 'success' ? 'Success!' : 'Error!',
+                type: type == 'success' ? 'green' : 'red',
+                content: message,
+              });
+          }
+        })(jQuery);
+        
+    </script>
     
   </head>
   <body class="login-page">
@@ -62,7 +78,7 @@
       </div><!-- /.login-box-body -->
     </div><!-- /.login-box -->
 
-    <script src="<?php echo base_url(); ?>assets/js/jQuery-2.1.4.min.js"></script>
+    
     <script src="<?php echo base_url(); ?>assets/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
   </body>
 </html>

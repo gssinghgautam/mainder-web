@@ -75,7 +75,7 @@
                                 <div class="col-md-6">
                                     <div class="form-group">
                                         <label for="customerId">Booking Date and Time</label>
-                                        <input type="datetime-local" class="form-control" id="bookingTime" name="bookingTime" value="<?= $bookingDetails->bookingTime; ?>" placeholder="Booking Date and Time">
+                                        <input type="datetime-local" class="form-control" id="bookingTime" name="bookingTime" value="<?= date('Y-m-d\TH:i:s', strtotime($bookingDetails->bookingTime)); ?>" placeholder="Booking Date and Time">
                                     </div>
                                 </div>
                             </div>
@@ -109,13 +109,14 @@
             <div class="col-md-4">
                 <div id="validationDiv" style='display:none'><div class="box box-primary"><div class="box-body"><div class="row"><div class="col-md-12"><div class="callout callout-danger"><h4>Unable to check!</h4><p id='dateValidationMsg'></p></div></div></div></div></div></div>
                 <div id='availableRoomDiv'></div>
-
+                
                 <?php
                     $this->load->helper('form');
                     $error = $this->session->flashdata('error');
                     if($error)
                     {
                 ?>
+                <script>alertMessage('<?php echo $this->session->flashdata('error'); ?>', 'error');</script>
                 <div class="alert alert-danger alert-dismissable">
                     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
                     <?php echo $this->session->flashdata('error'); ?>                    
@@ -126,6 +127,7 @@
                     if($success)
                     {
                 ?>
+                <script>alertMessage('<?php echo $this->session->flashdata('success'); ?>', 'success');</script>
                 <div class="alert alert-success alert-dismissable">
                     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
                     <?php echo $this->session->flashdata('success'); ?>

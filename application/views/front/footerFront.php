@@ -24,6 +24,8 @@
       <script type='text/javascript' src='<?php echo base_url(); ?>assets/front/js/functions.js'></script>
       <!-- custom -->
       <script>
+          
+
          (function ($) {
                  "use strict";
          

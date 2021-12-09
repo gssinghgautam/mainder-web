@@ -160,6 +160,7 @@
                 $error = $this->session->flashdata('error');
                 if ($error) {
                 ?>
+                    <script>alertMessage('<?php echo $this->session->flashdata('error'); ?>', 'error');</script>
                     <div class="alert alert-danger alert-dismissable">
                         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
                         <?php echo $this->session->flashdata('error'); ?>
@@ -169,6 +170,7 @@
                 $success = $this->session->flashdata('success');
                 if ($success) {
                 ?>
+                    <script>alertMessage('<?php echo $this->session->flashdata('success'); ?>', 'success');</script>
                     <div class="alert alert-success alert-dismissable">
                         <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
                         <?php echo $this->session->flashdata('success'); ?>

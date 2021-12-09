@@ -15,6 +15,7 @@
     <!-- AdminLTE Skins. Choose a skin from the css/skins 
          folder instead of downloading all of them to reduce the load. -->
     <link href="<?php echo base_url(); ?>assets/dist/css/skins/_all-skins.min.css" rel="stylesheet" type="text/css" />
+    <link rel='stylesheet' type='text/css' media='all' href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.css" />
     <style>
     	.error{
     		color:red;
@@ -24,6 +25,22 @@
     <link href="<?php echo base_url(); ?>assets/plugins/datepicker/datepicker3.css?" rel="stylesheet" type="text/css" />
     <!-- jQuery 2.1.4 -->
     <script src="<?php echo base_url(); ?>assets/js/jQuery-2.1.4.min.js"></script>
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js"></script>
+      
+    <script>
+        (function ($){
+          window.alertMessage = function (message, type){
+              $.alert({
+                title: type == 'success' ? 'Success!' : 'Error!',
+                type: type == 'success' ? 'green' : 'red',
+                content: message,
+              });
+          }
+        })(jQuery);
+        
+    </script>
     <script type="text/javascript">
         var baseURL = "<?php echo base_url(); ?>";
     </script>

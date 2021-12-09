@@ -271,11 +271,11 @@ class Booking extends BaseController
         
         $bookingId = $this->input->post('bookingId');
 
-        $this->form_validation->set_rules('startDate','Start Date','trim|required');
-        $this->form_validation->set_rules('endDate','End Date','trim|required');
-        $this->form_validation->set_rules('roomId','Room Number','trim|required|numeric');
-        $this->form_validation->set_rules('comments','Comments','trim');
-        $this->form_validation->set_rules('customerId','Customer','trim|required|numeric');
+        $this->form_validation->set_rules('bookingTime','Booking Date','trim|required');
+        // $this->form_validation->set_rules('endDate','End Date','trim|required');
+        // $this->form_validation->set_rules('roomId','Room Number','trim|required|numeric');
+        // $this->form_validation->set_rules('comments','Comments','trim');
+        // $this->form_validation->set_rules('customerId','Customer','trim|required|numeric');
         
         if($this->form_validation->run() == FALSE)
         {
@@ -283,7 +283,7 @@ class Booking extends BaseController
         }
         else
         {
-            $startDate = $this->security->xss_clean($this->input->post('startDate'));
+            $bookingTime = $this->security->xss_clean($this->input->post('bookingTime'));
             $endDate = $this->security->xss_clean($this->input->post('endDate'));
             $roomId = $this->input->post('roomId');
             $floorId = $this->input->post('floorId');
@@ -291,11 +291,18 @@ class Booking extends BaseController
             $comments = $this->security->xss_clean($this->input->post('comments'));
             $customerId = $this->security->xss_clean($this->input->post('customerId'));
             
-            $bookingInfo = array('bookStartDate'=>$startDate, 'bookEndDate'=>$endDate, 
-                                'roomId'=>$roomId, 'floorId'=>$floorId, 'roomSizeId'=>$roomSizeId,
-                                'customerId'=>$customerId,'bookingDtm'=>date('Y-m-d H:i:sa'),
-                                'bookingComments'=>$comments,
-                                'createdBy'=>$this->vendorId, 'createdDtm'=>date('Y-m-d H:i:sa'));
+            $bookingInfo = array(
+                // 'bookStartDate'=>$startDate, 
+                'bookingTime'=>$bookingTime, 
+                // 'roomId'=>$roomId, 
+                // 'floorId'=>$floorId, 
+                // 'roomSizeId'=>$roomSizeId,
+                'customerId'=>$customerId,
+                'bookingDtm'=>date('Y-m-d H:i:sa'),
+                'bookingComments'=>$comments,
+                'createdBy'=>$this->vendorId, 
+                'createdDtm'=>date('Y-m-d H:i:sa')
+            );
             
             $result = $this->booking->updateOldBooking($bookingInfo, $bookingId);
             

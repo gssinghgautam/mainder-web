@@ -12,8 +12,24 @@
       <link rel='stylesheet' id='theme-css-css' href='<?php echo base_url(); ?>assets/front/css/theme-style.css' type='text/css' media='all' />
       <link rel='stylesheet' id='peace-style-css' href='<?php echo base_url(); ?>assets/front/css/style.css' type='text/css' media='all' />
       <link rel='stylesheet' id='masterslider-css' href='<?php echo base_url(); ?>assets/front/css/masterslider.main.css' type='text/css' media='all' />
+      
       <!-- js inlcude -->
       <script type='text/javascript' src='<?php echo base_url(); ?>assets/front/js/jquery.js'></script>
+      <link rel='stylesheet' type='text/css' media='all' href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.css" />
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.4/jquery-confirm.min.js"></script>
+      
+      <script>
+         (function ($){
+            window.alertMessage = function (message, type){
+               $.alert({
+                  title: type == 'success' ? 'Success!' : 'Error!',
+                  type: type == 'success' ? 'green' : 'red',
+                  content: message,
+               });
+            }
+         })(jQuery);
+         
+      </script>
    </head>
    <body class="home page">
       <div id="preloader">

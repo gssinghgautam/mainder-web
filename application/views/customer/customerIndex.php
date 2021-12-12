@@ -36,9 +36,9 @@
                     <tr>
                       <th>Id</th>
                       <th>Name</th>             
-                      <th>Mobile</th>
-                      <th>Address</th>
                       <th>Email</th>
+                      <th>Subject</th>
+                      <th>Message</th>
                       <!-- <th class="text-center">Actions</th> -->
                     </tr>
                     <?php
@@ -50,13 +50,13 @@
                     <tr>
                       <td><?php echo $record->customerId ?></td>
                       <td><?php echo $record->customerName ?></td>
-                      <td><?php echo $record->customerPhone ?></td>
-                      <td><?php echo $record->customerAddress ?></td>
                       <td><?php echo $record->customerEmail ?></td>
-                      <td class="text-center">
+                      <td><?php echo $record->your_subject ?></td>
+                      <td><?php echo $record->your_message ?></td>
+                      <!-- <td class="text-center">
                           <a href="<?php echo base_url().'editOldCustomer/'.$record->customerId; ?>" class="btn btn-sm btn-info"><i class="fa fa-pencil"></i></a>
                           <a href="" data-customerid="<?= $record->customerId ?>" class="deleteCustomer btn btn-sm btn-danger"><i class="fa fa-trash"></i></a>
-                      </td>
+                      </td> -->
                     </tr>
                     <?php
                         }

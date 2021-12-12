@@ -155,8 +155,8 @@ class Home extends CI_Controller
     {
         $this->load->library('form_validation'); 
               
-        $this->form_validation->set_rules('your_name','Name','trim|required');
-        $this->form_validation->set_rules('your_email','Email','trim|required');
+        $this->form_validation->set_rules('customerName','Name','trim|required');
+        $this->form_validation->set_rules('customerEmail','Email','trim|required');
         $this->form_validation->set_rules('your_subject','Subject','trim|required');
         $this->form_validation->set_rules('your_message','Message','trim|required'); 
      
@@ -164,11 +164,11 @@ class Home extends CI_Controller
         {
             //die('----dd-------');
             $fromform = $this->input->post('fromform');
-            $your_name = $this->input->post('your_name');
-            $your_email = $this->input->post('your_email');
+            $customerName = $this->input->post('customerName');
+            $customerEmail = $this->input->post('customerEmail');
             $your_subject = $this->input->post('your_subject');
             $your_message = $this->input->post('your_message');
-            $insertInfo = array('your_name'=>$your_name,'your_email'=>$your_email,'your_subject'=>$your_subject,'your_message'=>$your_message);
+            $insertInfo = array('customerName'=>$customerName,'customerEmail'=>$customerEmail,'your_subject'=>$your_subject,'your_message'=>$your_message);
             $insertInfo = $this->security->xss_clean($insertInfo);
             $this->load->model('home_model');      
             $result = $this->home_model->sendConnectQuery($insertInfo);

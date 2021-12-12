@@ -766,14 +766,14 @@
                   <div class="col-md-6 form-group">
                      <label class="sr-only">Full Name</label>
                      <span class="wpcf7-form-control-wrap your-name">
-                        <input type="text" name="your_name" required value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Full Name" />
+                        <input type="text" name="customerName" required value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Full Name" />
                      </span>
                   </div>
                   <!-- end form group -->
                   <div class="col-md-6 form-group">
                      <label class="sr-only">Email Address</label>
                      <span class="wpcf7-form-control-wrap your-email">
-                        <input type="email" name="your_email" required value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email Address" />
+                        <input type="email" name="customerEmail" required value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email Address" />
                      </span>
                   </div>
                   <!-- end form group -->

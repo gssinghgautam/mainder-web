@@ -40,7 +40,7 @@ class Customer_model extends CI_Model
      */
     function customerListing($searchText = '', $page, $segment)
     {
-        $this->db->select('BaseTbl.customerId, BaseTbl.customerName, BaseTbl.customerAddress, BaseTbl.customerPhone, BaseTbl.customerEmail');
+        $this->db->select('BaseTbl.customerId, BaseTbl.customerName, BaseTbl.customerAddress, BaseTbl.customerPhone, BaseTbl.customerEmail, BaseTbl.your_subject, BaseTbl.your_message,');
         $this->db->from('ldg_customer as BaseTbl');
         if(!empty($searchText)) {
             $likeCriteria = "(BaseTbl.customerName  LIKE '%".$searchText."%'

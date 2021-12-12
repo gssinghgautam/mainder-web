@@ -69,10 +69,10 @@
                    <input type="text" name="address" id="address" placeholder="Addresss" required />
                    <input type="comment" name="detail" id="detail" placeholder="Details" required />
                 </div>
-                <div class="form-check">
+                <!-- <div class="form-check">
                    <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
                    <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree to the  <a href="#" class="term-service">Terms and Conditions</a></label>
-                </div>
+                </div> -->
                 <div class="form-submit">
                    <input type="submit" name="submit" id="submit" class="submit" value="Request an appointment" />
                 </div>

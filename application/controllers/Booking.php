@@ -5,7 +5,7 @@ require APPPATH . '/libraries/BaseController.php';
 /**
  * Class : Booking (BookingController)
  * Booking Class to control all booking related operations.
- * @author : Kishor Mali
+ * @author : Admin
  * @version : 1.1
  * @since : 29 Mar 2017
  */

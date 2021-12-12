@@ -25,7 +25,7 @@ class Home_model extends CI_Model
     function sendConnectQuery($insertInfo)
     {
         $this->db->trans_start();
-        $this->db->insert('ldg_connect_us', $insertInfo);
+        $this->db->insert('ldg_customer', $insertInfo);
         /*  echo $this->db->last_query();
         die('===================');     */
         $insert_id = $this->db->insert_id();

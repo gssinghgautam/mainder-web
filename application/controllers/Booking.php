@@ -288,6 +288,12 @@ class Booking extends BaseController
             $roomId = $this->input->post('roomId');
             $floorId = $this->input->post('floorId');
             $roomSizeId = $this->input->post('sizeId');
+            $title = $this->input->post('title');
+            $name = $this->input->post('name');
+            $email = $this->input->post('email');
+            $address = $this->input->post('address');
+            $phone_number = $this->input->post('phone_number');
+            $course_type = $this->input->post('course_type');
             $comments = $this->security->xss_clean($this->input->post('comments'));
             $customerId = $this->security->xss_clean($this->input->post('customerId'));
             
@@ -297,6 +303,12 @@ class Booking extends BaseController
                 // 'roomId'=>$roomId, 
                 // 'floorId'=>$floorId, 
                 // 'roomSizeId'=>$roomSizeId,
+                'title'=>$title,
+                'name'=>$name,
+                'email'=>$email,
+                'address'=>$address,
+                'course_type'=>$course_type,
+                'phone_number'=>$phone_number,
                 'customerId'=>$customerId,
                 'bookingDtm'=>date('Y-m-d H:i:sa'),
                 'bookingComments'=>$comments,

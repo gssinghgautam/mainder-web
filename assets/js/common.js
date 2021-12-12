@@ -27,10 +27,10 @@ jQuery(document).ready(function() {
     });
 
     jQuery(document).on("click", ".deleteFloors", function() {
-        var floorsId = $(this).data("floorsid"),
+        var floorsId = $(this).data("event_id"),
             hitURL = baseURL + "deleteFloors",
             currentRow = $(this);
-
+        debugger
         var confirmation = confirm("Are you sure to delete this floor ?");
 
         if (confirmation) {

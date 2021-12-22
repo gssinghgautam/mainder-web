@@ -1579,7 +1579,7 @@
 																		data-settings="{&quot;_animation&quot;:&quot;opal-move-up&quot;,&quot;_position&quot;:&quot;absolute&quot;}"
 																		data-widget_type="opal-revslider.default">
 																		<div class="elementor-widget-container">
-																			<img style="height: 840px;" src="https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/rev_sliderhome2_1.jpg"/>
+																			<img style="height: 840px;" src="events_banner.jpeg"/>
 																		</div>
 
 

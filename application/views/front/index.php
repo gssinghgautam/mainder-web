@@ -107,7 +107,7 @@
             <div class="pooja pooja1">
                <div class="head">Grah-Pravesh Puja</div>
                <div class="contenet">
-                  A grah pravesh ceremony is performed, when one enters a new home for the first time.
+                  Book vedic professional to perform the ritual before entering into the new house.
                </div>
                <!-- end content -->
             </div>
@@ -115,16 +115,16 @@
             <div class="pooja pooja2">
                <div class="head">Marriage</div>
                <div class="contenet">
-                  Marriages are considered to be a turning point as one enters in an important phase of life.
+                  Performing Vivah puja acts as an invitation to the many Gods and Goddesses by performing various rituals to come and bless the couple.
                </div>
                <!-- end content -->
             </div>
             <!-- end puja -->
             <div class="pooja pooja3">
-               <div class="head">Bhoomi Pooja</div>
+               <div class="head">Garudh Puran</div>
                <div class="contenet">
-                  Bhoomi pooja is a ritual performed in honour of Goddess Bhoomi. This pooja is believed to eradicate the ill effects.
-               </div>
+                  Get most requested Pooja done for your life and well-being from our experienced priest.
+            </div>
                <!-- end content -->
             </div>
             <!-- end puja -->

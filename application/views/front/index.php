@@ -208,7 +208,7 @@
             <div class="darson darson1">
                <div class="head">Mundan Sanskar</div>
                <div class="contenet">
-                  Monday is the act of shaving the baby's first hair on the head. This is important in Hinduism.
+               Get the head shaving by Panndit Ji to purify the soul of the baby and ensure the prosperous life of the baby. It is also believed that Mundan reduces the body temperature of the baby.
                </div>
                <!-- end content -->
             </div>

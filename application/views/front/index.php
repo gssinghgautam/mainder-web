@@ -208,7 +208,7 @@
             <div class="darson darson1">
                <div class="head">Mundan Sanskar</div>
                <div class="contenet">
-               Get the head shaving by Panndit Ji to purify the soul of the baby and ensure the prosperous life of the baby.
+               Get the head shaving by Pandit Ji to purify the soul of the baby and ensure the prosperous life of the baby.
                </div>
                <!-- end content -->
             </div>

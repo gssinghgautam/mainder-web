@@ -105,7 +105,7 @@
       <div class="service">
          <div class="col-md-3 service-details">
             <div class="pooja pooja1">
-               <div class="head">Grah-Pravesh Puja Havan</div>
+               <div class="head">Grah-Pravesh Puja</div>
                <div class="contenet">
                   A grah pravesh ceremony is performed, when one enters a new home for the first time.
                </div>
@@ -113,7 +113,7 @@
             </div>
             <!-- end puga -->
             <div class="pooja pooja2">
-               <div class="head">MARRIAGE</div>
+               <div class="head">Marriage</div>
                <div class="contenet">
                   Marriages are considered to be a turning point as one enters in an important phase of life.
                </div>
@@ -121,7 +121,7 @@
             </div>
             <!-- end puja -->
             <div class="pooja pooja3">
-               <div class="head">BHOOMI POOJA</div>
+               <div class="head">Bhoomi Pooja</div>
                <div class="contenet">
                   Bhoomi pooja is a ritual performed in honour of Goddess Bhoomi. This pooja is believed to eradicate the ill effects.
                </div>
@@ -222,7 +222,7 @@
             </div>
             <!-- end darson -->
             <div class="darson darson3">
-               <div class="head">VAAHAN POOJA</div>
+               <div class="head">Vaahan Pooja</div>
                <div class="contenet">
                   Vahan Poojan is to keep it from bad influences and to bless it in God's name. Hindus often perform pujas for items used in daily life.
                </div>

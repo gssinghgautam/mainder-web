@@ -44,7 +44,23 @@
             
                 <h2>Book An Appointment with Pandit Ji</h2>
                 <div class="form-group-1">
-                   <input type="text" name="title" id="title" placeholder="Title" required />
+                  <select  name="title" id="title"  required >
+                     <option value="">
+                        Select Title
+                    </option>
+                     <option value="Mr.">
+                        Dr.
+                    </option>
+                     <option value="Mr.">
+                        Mr.
+                    </option>
+                    <option value="Mr.">
+                        Ms.
+                    </option>
+                    <option value="Mr.">
+                        Mrs.
+                    </option>
+                  </select>
                    <input type="text" name="name" id="name" placeholder="Your Name" required />
                    <input type="email" name="email" id="email" placeholder="Email" required />
                    <input type="number" name="phone_number" id="phone_number" placeholder="Phone number" required />
@@ -65,7 +81,15 @@
                       </select>
                    </div>
                    <label for="bookingTime">Birthday (date and time):</label>
-                   <input type="datetime-local" id="bookingTime" name="bookingTime" placeholder="Booking Date and Time">
+                   <?php
+                     $mindate = date("Y-m-d");
+                     $mintime = date("h:i");
+                     $min = $mindate."T".$mintime;
+                     $maxdate = date("Y-m-d", strtotime("+10 Days"));
+                     $maxtime = date("h:i");
+                     $max = $maxdate."T".$maxtime;
+                  ?>
+                   <input type="datetime-local" id="bookingTime" name="bookingTime" placeholder="Booking Date and Time" min="<?php echo $min ?>">
                    <input type="text" name="address" id="address" placeholder="Addresss" required />
                    <input type="comment" name="detail" id="detail" placeholder="Details" required />
                 </div>

@@ -143,7 +143,7 @@
                <div class="col-5">
                   <div class="item hand">
                      <div class="item-element">
-                        <span class="fa fa-certificate"></span>
+                        <span class="fa fa-home"></span>
                      </div>
                      <!-- end element -->
                   </div>

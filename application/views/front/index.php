@@ -163,7 +163,7 @@
                <div class="col-5">
                   <div class="item hand2">
                      <div class="item-element">
-                        <span class="fa fa-heart"></span>
+                        <span class="fa fa-gratipay"></span>
                      </div>
                      <!-- end element -->
                   </div>
@@ -173,7 +173,7 @@
                <div class="col-5">
                   <div class="item hand3">
                      <div class="item-element">
-                        <span class="fa fa-bullhorn"></span>
+                        <span class="fa fa-bed"></span>
                      </div>
                      <!-- end element -->
                   </div>
@@ -183,7 +183,7 @@
                <div class="col-5">
                   <div class="item hand4">
                      <div class="item-element">
-                        <span class="fa fa-diamond"></span>
+                        <span class="fa fa-book"></span>
                      </div>
                      <!-- end element -->
                   </div>

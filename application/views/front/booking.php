@@ -1,5 +1,14 @@
+
 <?php include('headerFront.php'); ?>
 <link rel='stylesheet' id="appoitment-form-css" href='<?php echo base_url(); ?>assets/front/css/booking.css' type='text/css' media='all' />
+<style>
+   select, input[type="number"], input[type="comment"], input[type="datetime-local"] {
+    color: #666;
+    border: 1px solid #ccc;
+    padding: 3px;
+    border-radius: 3px;
+   }
+</style>
       <!-- peace layout start. end in footer.php -->
       <div id="peace-layout">
       <!-- Blog Page Container -->
@@ -80,7 +89,7 @@
                            ?>                     
                       </select>
                    </div>
-                   <label for="bookingTime">Birthday (date and time):</label>
+                   <!-- <label for="bookingTime">Birthday (date and time):</label> -->
                    <?php
                      $mindate = date("Y-m-d");
                      $mintime = date("h:i");
@@ -89,9 +98,9 @@
                      $maxtime = date("h:i");
                      $max = $maxdate."T".$maxtime;
                   ?>
-                   <input type="datetime-local" id="bookingTime" name="bookingTime" placeholder="Booking Date and Time" min="<?php echo $min ?>">
+                   <input type="text" id="bookingTime" name="bookingTime" placeholder="Booking Date and Time" min="<?php echo $min ?>">
                    <input type="text" name="address" id="address" placeholder="Addresss" required />
-                   <input type="comment" name="detail" id="detail" placeholder="Details" required />
+                   <textarea type="comment" name="detail" id="detail" placeholder="Details" required ></textarea>
                 </div>
                 <!-- <div class="form-check">
                    <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
@@ -103,5 +112,13 @@
              </form>
           </div>
         </div>
+        <script>
+           jQuery(document).ready(function(){
+               jQuery("#bookingTime").focus( function() {
+                  jQuery(this).attr({type: 'datetime-local'});
+               });
+            });
+            
+      </script>
       <!-- blog page container -->
       <?php include('footerFront.php'); ?>

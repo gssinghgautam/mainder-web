@@ -153,7 +153,7 @@
                <div class="col-5">
                   <div class="item hand1">
                      <div class="item-element">
-                        <span class="fa fa-eye"></span>
+                        <span class="fa fa-child"></span>
                      </div>
                      <!-- end element -->
                   </div>

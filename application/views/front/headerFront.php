@@ -48,7 +48,10 @@
       <div id="peace-layout" style="background: #F7E4D9;">
          <header id="top-section">
             <div class="container">
-               <div class="col-sm-4 hidden-xs address">
+               <div class="col-sm-4 hidden-xs address" style="display: flex;justify-content: center;align-items: center;">
+                  <div>
+                     <img src="/assets/images/mandir-image.png" style="height: 80px;width: 130px;">
+                  </div>
                   <div class="pull-left">
                      <ul>
                         <li style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir Drammen, Norway.</li>

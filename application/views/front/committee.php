@@ -101,14 +101,14 @@
                                  <th>Role</th>
                               </tr>
                               <tr>
-                                 <td>Madan Lal Gupta</td>
+                                 <td>Neelam Gupta</td>
                                  <td>+47 93091196</td>
-                                 <td>President</td>
+                                 <td>DOTL Coordinator</td>
                               </tr>
                               <tr>
-                                 <td>Abnash Gupta</td>
+                                 <td>Hasmukh Mistry</td>
                                  <td>+47 91628701</td>
-                                 <td>Vice President</td>
+                                 <td>Barnnvern Leder</td>
                               </tr>
                               
                               

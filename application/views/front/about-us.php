@@ -13,11 +13,6 @@
                            <div class="event-description">
                               <p>Welcome, and thank you for visiting Hindu Sanatan Mandir online. We hope that our website highlights the wide variety of worship, fellowship and service opportunities available. Please feel free to read more about our mandir on this site, or come in for a visit. 
                               </p>
-                              <h2 class="uppercase"><a href="#" title="Spacial Monazat">General Information</a></h2>
-                              <p>Devotees to wish to give ‘Langer’ for occasions held at Hindu Sanatan Mandir are requested to contact us.
-                              </p>
-                              <p>Hindu Santan Mandir sends out letters by post to all its devotees who have registered their name and mailing address with us. The letter contains general information as well as the complete program for the various activities to take place in Hindu Sanatan Mandir including celebrations of religious festivals.</p>
-                              <p>If you wish to be on our mailing list in order to receive the ‘Mandir newsletter’, please enter your information below.</p>
                               
                               <h2>MANDIR HISTORY</h2>
                               <p>Hindu Sanatan Mandir has grown in its reach and significance from a very humble beginning. The mandir was conceptualised when Devotees in Buskerud, Akershus (now Viken) & Telemark and Vestfold realised that commuting to the already existing temple in Oslo on a daily basis was not a feasible option in the long run. In addition, as the Hindu community in the region grew and flourished, the need for a place of worship where the community could gather and pray as a whole was realised.</p>

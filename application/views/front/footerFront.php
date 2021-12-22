@@ -5,7 +5,7 @@
          <div class="container">
             <div class="row">
                <div class="copyright">
-               <p>Copyright © 2021 Hindu Sanatan Mandir Drammen, Norway</p>
+               <p style="color: black;">Copyright © 2021 Hindu Sanatan Mandir Drammen, Norway</p>
 
                </div>
                <!-- .copyright -->

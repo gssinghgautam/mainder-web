@@ -116,12 +116,14 @@
                <div class="contact-info col-md-6 pull-right wow fadeInRight">
                   <div class="contact-person">
                      <h2>Contact Person</h2>
-                     <img width="150" height="150" src="images/09/personimg02.jpg" class="img-circle" alt="team-3">
                      <div class="info">
-                        <h3>Neelam Gupta</h3>
-                        <span><b>TEL:</b> +88006691332584</span>
+                        <span><b>Tel:</b> +4732894957</span>
                         <br>
-                        <span><b>Email:</b><a href="mailto:guptaneelam@hotmail.com" style="color:white">guptaneelam@hotmail.com</a></span>
+                        <span><b>Pandit Ji: </b> +4794724176</span>
+                        <br>
+                        <span><b>Styret:</b> +4793091196</span>
+                        <br>
+                        <span><b>Email:</b><a href="mailto:hsanatan@gmail.com" style="color:white">hsanatan@gmail.com</a></span>
                      </div>
                      <!-- /.info -->
                   </div>

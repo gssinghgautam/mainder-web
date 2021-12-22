@@ -113,7 +113,7 @@
                               </li>
                               <li><a title="Hinduism" href="about-hinduism">Hinduism</a>
                               </li>
-                              <li><a title="Events" href="events.html">Events</a>
+                              <li><a title="Events" href="events">Events</a>
                               <li><a title="Gallery" href="gallery">Gallery</a></li>
                               <!-- <li><a title="Gallery Default" href="404page">Membership</a></li> -->
                               <li><a title="Book an Appointment" href="booking">Book an Appointment</a></li>

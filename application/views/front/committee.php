@@ -17,7 +17,7 @@
       padding-top: 12px;
       padding-bottom: 12px;
       text-align: left;
-      background-color: #04AA6D;
+      background-color: #B22F30;
       color: white;
       }
    </style>
@@ -36,67 +36,53 @@
                      <div class="container">
                         <div class="row">
                            <div class="heading-title text-center">
-                              <h3 class="text-uppercase">Our management committee </h3>
+                              <h3 class="text-uppercase" style="text-align: left;">Our management committee </h3>
                            </div>
                         </div>
                         <br><br>
                         <div class="row">
                            <table id="committee">
                               <tr>
-                                 <th>Company</th>
-                                 <th>Contact</th>
-                                 <th>Country</th>
+                                 <th>Name</th>
+                                 <th>Role</th>
+                                 <th>Contact Number</th>
                               </tr>
                               <tr>
-                                 <td>Alfreds Futterkiste</td>
-                                 <td>Maria Anders</td>
-                                 <td>Germany</td>
+                                 <td>Madan Lal Gupta</td>
+                                 <td>+47 93091196</td>
+                                 <td>President</td>
                               </tr>
                               <tr>
-                                 <td>Berglunds snabbköp</td>
-                                 <td>Christina Berglund</td>
-                                 <td>Sweden</td>
+                                 <td>Abnash Gupta</td>
+                                 <td>+47 91628701</td>
+                                 <td>Vice President</td>
                               </tr>
                               <tr>
-                                 <td>Centro comercial Moctezuma</td>
-                                 <td>Francisco Chang</td>
-                                 <td>Mexico</td>
+                                 <td>Vijay Saggar</td>
+                                 <td>+47 92026937</td>
+                                 <td>Cashier</td>
                               </tr>
                               <tr>
-                                 <td>Ernst Handel</td>
-                                 <td>Roland Mendel</td>
-                                 <td>Austria</td>
+                                 <td>Boota Mahe</td>
+                                 <td>+47 97356724</td>
+                                 <td>Secretary & Kitchen Management</td>
                               </tr>
                               <tr>
-                                 <td>Island Trading</td>
-                                 <td>Helen Bennett</td>
-                                 <td>UK</td>
+                                 <td>Sanjay Gupta</td>
+                                 <td>+47 92468008</td>
+                                 <td>General Administration</td>
                               </tr>
                               <tr>
-                                 <td>Königlich Essen</td>
-                                 <td>Philip Cramer</td>
-                                 <td>Germany</td>
+                                 <td>Abhishek Ramavat</td>
+                                 <td>+47 46905759</td>
+                                 <td>Cultural & Festival Management</td>
                               </tr>
                               <tr>
-                                 <td>Laughing Bacchus Winecellars</td>
-                                 <td>Yoshi Tannamuri</td>
-                                 <td>Canada</td>
+                                 <td>Sumit Monga</td>
+                                 <td>+47 93427528</td>
+                                 <td>Relationship Management</td>
                               </tr>
-                              <tr>
-                                 <td>Magazzini Alimentari Riuniti</td>
-                                 <td>Giovanni Rovelli</td>
-                                 <td>Italy</td>
-                              </tr>
-                              <tr>
-                                 <td>North/South</td>
-                                 <td>Simon Crowther</td>
-                                 <td>UK</td>
-                              </tr>
-                              <tr>
-                                 <td>Paris spécialités</td>
-                                 <td>Marie Bertrand</td>
-                                 <td>France</td>
-                              </tr>
+                              
                            </table>
                         </div>
                      </div>

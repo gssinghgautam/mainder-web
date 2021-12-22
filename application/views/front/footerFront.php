@@ -5,8 +5,8 @@
          <div class="container">
             <div class="row">
                <div class="copyright">
-                  <p>Copyright © 2021 <a href="https://agrim.no/">Agrim</a> | Designed by <a href="https://agrim.no/">Agrim</a>
-                  </p>
+               <p>Copyright © 2021 Hindu Sanatan Mandir Drammen, Norway</p>
+
                </div>
                <!-- .copyright -->
             </div>

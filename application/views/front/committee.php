@@ -36,7 +36,7 @@
                      <div class="container">
                         <div class="row">
                            <div class="heading-title text-center">
-                              <h3 class="text-uppercase" style="text-align: left;">Our management committee </h3>
+                              <h3 class="text-uppercase" style="text-align: left; color: black;">Our management committee </h3>
                            </div>
                         </div>
                         <br><br>
@@ -84,7 +84,38 @@
                               </tr>
                               
                            </table>
+
                         </div>
+
+                        <div class="row">
+                           <div class="heading-title text-center">
+                              <h3 class="text-uppercase" style="text-align: left; color: black;">Other Key Contacts</h3>
+                           </div>
+                        </div>
+                        <br><br>
+                        <div class="row">
+                           <table id="committee">
+                              <tr>
+                                 <th>Name</th>
+                                 <th>Contact Number</th>
+                                 <th>Role</th>
+                              </tr>
+                              <tr>
+                                 <td>Madan Lal Gupta</td>
+                                 <td>+47 93091196</td>
+                                 <td>President</td>
+                              </tr>
+                              <tr>
+                                 <td>Abnash Gupta</td>
+                                 <td>+47 91628701</td>
+                                 <td>Vice President</td>
+                              </tr>
+                              
+                              
+                           </table>
+                           
+                        </div>
+
                      </div>
                   </div>
                   <!--  end event desc-->

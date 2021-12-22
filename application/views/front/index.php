@@ -208,7 +208,7 @@
             <div class="darson darson1">
                <div class="head">Mundan Sanskar</div>
                <div class="contenet">
-               Get the head shaving by Panndit Ji to purify the soul of the baby and ensure the prosperous life of the baby. It is also believed that Mundan reduces the body temperature of the baby.
+               Get the head shaving by Panndit Ji to purify the soul of the baby and ensure the prosperous life of the baby.
                </div>
                <!-- end content -->
             </div>
@@ -224,8 +224,8 @@
             <div class="darson darson3">
                <div class="head">Vaahan Pooja</div>
                <div class="contenet">
-                  Vahan Poojan is to keep it from bad influences and to bless it in God's name. Hindus often perform pujas for items used in daily life.
-               </div>
+              In this Puja, whenever someone is blessed with a new vehicle Pandit Ji performs a Pooja to show gratitude to Lord.
+                  </div>
                <!-- end content -->
             </div>
             <!-- end darson -->

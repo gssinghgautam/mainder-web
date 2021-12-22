@@ -2009,9 +2009,9 @@
 		</style>
 	</noscript> <a href="#" class="scrollup"><span class="icon fa fa-angle-up"></span></a>
 	<div class="body-background">
-		<div class="body-background-inner"
+		<!-- <div class="body-background-inner"
 			style="background-image: url(https://demo2wpopal.b-cdn.net/spker/wp-content/uploads/2019/07/bg1.svg); transform: translate(-50%, -50%) scale(1);">
-		</div>
+		</div> -->
 	</div>
 	<link data-minify="1" rel='stylesheet' property='stylesheet' id='rs-icon-set-fa-icon-css'
 		href='https://demo2wpopal.b-cdn.net/spker/wp-content/cache/min/1/spker/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome-5fc2a1dd025717fb9fdf7d9c8563f253.css'

@@ -44,8 +44,8 @@
                            <table id="committee">
                               <tr>
                                  <th>Name</th>
-                                 <th>Role</th>
                                  <th>Contact Number</th>
+                                 <th>Role</th>
                               </tr>
                               <tr>
                                  <td>Madan Lal Gupta</td>

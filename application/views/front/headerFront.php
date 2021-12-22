@@ -55,7 +55,7 @@
                   </div>
                   <div class="pull-left">
                      <ul>
-                        <li style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir Drammen, Norway.</li>
+                        <li style="color: black;">Welcome to Official Website of Hindu Sanatan Mandir Drammen, Norway.</li>
                      </ul>
                   </div>
                   <!-- pull left  -->
@@ -69,7 +69,7 @@
                <div class="social-search pull-right hidden-xs">
                   <ul>
                      <li><a href="https://www.facebook.com/HinduSanatanMandir" target="_blank"><i class="fa fa-facebook"></i><span></span>
-                     
+                     <li><a href="mailto:hsanatan@gmail.com">hsanatan@gmail.com</a></li>
                      </a>
                      </li>
                   </ul>

@@ -1949,7 +1949,7 @@
 																<div class="elementor-widget-container">
 																	<div
 																		class="elementor-text-editor elementor-clearfix">
-																		<p>Copyright © 2021 <a href="https://agrim.no/" target="_blank">Agrim</a> | Designed by <a href="https://agrim.no/" target="_blank">Agrim</a></p>
+																		<p>Copyright © 2021 Hindu Sanatan Mandir Drammen, Norway</p>
 																	</div>
 																</div>
 															</div>

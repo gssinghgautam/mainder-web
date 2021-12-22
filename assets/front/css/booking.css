@@ -206,7 +206,7 @@ select {
 input:focus,
 select:focus {
     color: #222;
-    border-bottom: 2px solid #F1C152;
+    border-bottom: 2px solid #B22F30;
 }
 
 input[type=checkbox]:not(old) {
@@ -215,7 +215,7 @@ input[type=checkbox]:not(old) {
     padding: 0;
     font-size: 1em;
     display: none;
-}
+}22f
 
 input[type=checkbox]:not(old)+label {
     display: inline-block;
@@ -268,7 +268,7 @@ input[type=checkbox]:not(old):checked+label>span:before {
 
 .submit {
     width: auto;
-    background: #F1C152;
+    background: #B22F30;
     color: #000000;
     padding: 16px 17px;
     font-size: 13px;
@@ -317,7 +317,7 @@ ul li:last-child {
 
 .form-container ul li:not(.init):hover,
 .form-container ul li.selected:not(.init) {
-    background: #F1C152;
+    background: #B22F30;
     color: #fff;
 }
 

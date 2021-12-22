@@ -69,7 +69,7 @@
                <div class="social-search pull-right hidden-xs">
                   <ul>
                      <li><a href="https://www.facebook.com/HinduSanatanMandir" target="_blank"><i class="fa fa-facebook"></i><span></span>
-                     <li><a href="mailto:hsanatan@gmail.com">hsanatan@gmail.com</a></li>
+                     <li><a href="mailto:hsanatan@gmail.com" style="color: black;">hsanatan@gmail.com</a></li>
                      </a>
                      </li>
                   </ul>

@@ -19,9 +19,13 @@
 		href="https://demo2.wpopal.com/spker/comments/feed/" />
 
 		<link rel="shortcut icon" href="https://www.nathdwaratemple.org/favicon.ico">
-  <link rel="icon" href="https://www.nathdwaratemple.org/favicon.ico">
-  <link rel="apple-touch-icon" href="https://www.nathdwaratemple.org/favicon.ico">
-
+    <link rel="icon" href="https://www.nathdwaratemple.org/favicon.ico">
+    <link rel="apple-touch-icon" href="https://www.nathdwaratemple.org/favicon.ico">
+    <link rel='stylesheet' id='bootstrap-css' href='<?php echo base_url(); ?>assets/front/css/bootstrap.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='fontawesome-css' href='<?php echo base_url(); ?>assets/front/css/font-awesome.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='theme-css-css' href='<?php echo base_url(); ?>assets/front/css/theme-style.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='peace-style-css' href='<?php echo base_url(); ?>assets/front/css/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='masterslider-css' href='<?php echo base_url(); ?>assets/front/css/masterslider.main.css' type='text/css' media='all' />
 	<style>
 		img.wp-smiley,
 		img.emoji {
@@ -1465,132 +1469,90 @@
 	<div id="wptime-plugin-preloader"></div>
 	<div class="opal-wrapper">
 		<div id="page" class="site">
-			<header id="masthead" class="site-header">
-				<div class="site-header">
-					<div data-elementor-type="post" data-elementor-id="15" class="elementor elementor-15"
-						data-elementor-settings="[]">
-						<div class="elementor-inner">
-							<div class="elementor-section-wrap">
-								<section
-									class="elementor-element elementor-element-753bdbe elementor-section-stretched elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-									data-id="753bdbe" data-element_type="section"
-									data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-									<div class="elementor-container elementor-column-gap-no">
-										<div class="elementor-row">
-											<div class="elementor-element elementor-element-a053468 elementor-column elementor-col-33 elementor-top-column"
-												data-id="a053468" data-element_type="column">
-												<div class="elementor-column-wrap  elementor-element-populated">
-													<div class="elementor-widget-wrap">
-														<div class="elementor-element elementor-element-4cac539 elementor-widget elementor-widget-opal-site-logo elementor-widget-image"
-															data-id="4cac539" data-element_type="widget"
-															data-widget_type="opal-site-logo.default">
-															<div class="elementor-widget-container">
-																<div class="elementor-image"> 
-																	</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-											
-											<div class="elementor-element elementor-element-6dbe381 elementor-column elementor-col-33 elementor-top-column"
-												data-id="6dbe381" data-element_type="column">
-												<div class="elementor-column-wrap  elementor-element-populated">
-													<div class="elementor-widget-wrap">
-														<div class="elementor-element elementor-element-7332fd3 elementor-align-right elementor-mobile-align-justify elementor-button-primary_gradient elementor-widget elementor-widget-button"
-															data-id="7332fd3" data-element_type="widget"
-															data-widget_type="button.default">
-															<div class="elementor-widget-container">
-																
-																<div id="opal-contactform-popup-7332fd3"
-																	class="mfp-hide contactform-content">
-																	<div class="heading-form">
-																		<div class="form-title">Contact form 1</div>
-																	</div>
-																	<div class="wpcf7" id="wpcf7-f4-o1" lang="en-US"
-																		dir="ltr">
-																		<div class="screen-reader-response"></div>
-																		<form
-																			action="https://demo2.wpopal.com/spker/home-2/#wpcf7-f4-o1"
-																			method="post" class="wpcf7-form"
-																			novalidate="novalidate">
-																			<div style="display: none;"> <input
-																					type="hidden" name="_wpcf7"
-																					value="4" /> <input type="hidden"
-																					name="_wpcf7_version"
-																					value="5.1.3" /> <input
-																					type="hidden" name="_wpcf7_locale"
-																					value="en_US" /> <input
-																					type="hidden" name="_wpcf7_unit_tag"
-																					value="wpcf7-f4-o1" /> <input
-																					type="hidden"
-																					name="_wpcf7_container_post"
-																					value="0" /></div>
-																			<div class="mb-4"> <span
-																					class="wpcf7-form-control-wrap text-338"><input
-																						type="text" name="text-338"
-																						value="" size="40"
-																						class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-																						id="form-name"
-																						aria-required="true"
-																						aria-invalid="false"
-																						placeholder="Your Name" /></span>
-																			</div>
-																			<div class="mb-4"> <span
-																					class="wpcf7-form-control-wrap email-105"><input
-																						type="email" name="email-105"
-																						value="" size="40"
-																						class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-																						id="form-email"
-																						aria-required="true"
-																						aria-invalid="false"
-																						placeholder="Email" /></span>
-																			</div>
-																			<div class="mb-4"> <span
-																					class="wpcf7-form-control-wrap text-755"><input
-																						type="text" name="text-755"
-																						value="" size="40"
-																						class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-																						aria-required="true"
-																						aria-invalid="false"
-																						placeholder="Phone Number" /></span>
-																			</div>
-																			<div class="mb-4"> <span
-																					class="wpcf7-form-control-wrap menu-395"><select
-																						name="menu-395"
-																						class="wpcf7-form-control wpcf7-select"
-																						aria-invalid="false">
-																						<option value="Ticket 1">Ticket
-																							1</option>
-																						<option value="Ticket 2">Ticket
-																							2</option>
-																						<option value="Ticket 3">Ticket
-																							3</option>
-																						<option value="Ticket 4">Ticket
-																							4</option>
-																					</select></span></div>
-																			<p><button type="submit"
-																					value="Submit"><span>register
-																						now</span></button></p>
-																			<div
-																				class="wpcf7-response-output wpcf7-display-none">
-																			</div>
-																		</form>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</section>
-							</div>
-						</div>
-					</div>
-				</div>
-			</header>
+        <header id="top-section">
+            <div class="container">
+               <div class="col-sm-4 hidden-xs address" style="display: flex;justify-content: center;align-items: center;">
+                  <div>
+                     <img src="/assets/images/mandir-image.png" style="height: 80px;width: 130px;">
+                  </div>
+                  <div class="pull-left">
+                     <ul>
+                        <li style="color: black;">Welcome to Official Website of Sanatan Dharm Mandir Drammen, Norway.</li>
+                     </ul>
+                  </div>
+                  <!-- pull left  -->
+               </div>
+               <!-- /.address -->
+              
+
+
+
+               <!-- col sm 4 -->
+               <div class="social-search pull-right hidden-xs">
+                  <ul>
+                     <li><a href="https://www.facebook.com/HinduSanatanMandir" target="_blank"><i class="fa fa-facebook"></i><span></span>
+                     
+                     </a>
+                     </li>
+                  </ul>
+                
+                  <!--   site search  -->
+                  <!--  top cart  -->
+               </div>
+               <!-- social search  -->
+            </div>
+            <!-- /.container -->
+            <!-- menu slider start -->
+            <div class="menu-slider">
+               <nav id="peace-menu">
+                  <div class="container">
+                     <!-- Brand and toggle get grouped for better mobile display -->
+                     <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#responsive-icon" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        </button>
+                     </div>
+                     <!-- end navbar head -->
+                     <!-- Collect the nav links, forms, and other content for toggling -->
+                     <div class="collapse navbar-collapse" id="responsive-icon">
+                        <div class="menu-menu-1-container">
+                           <ul class="nav navbar-nav text-center nav navbar-nav text-center">
+                              <li><a title="Home" href="index">Home</a>
+                              </li>
+                              <li class="dropdown">
+                                 <a title="Who We Are" href="event-single" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Who We are <i class="fa fa-angle-down"></i></a>
+                                 <ul role="menu" class=" dropdown-menu">
+                                    <li><a title="About us" href="about-us">About us</a>
+                                    </li>
+                                    <li><a title="Contact us" href="contact-us">Contact us</a>
+                                    </li>
+                                     <li><a title="Management Committee" href="committee">Management Committee</a>
+                                 </li>
+                                 </ul>
+                              </li>
+                              <li><a title="Hinduism" href="about-hinduism">Hinduism</a>
+                              </li>
+                              <li><a title="Events" href="events">Events</a>
+                              <li><a title="Gallery" href="gallery">Gallery</a></li>
+                              <!-- <li><a title="Gallery Default" href="404page">Membership</a></li> -->
+                              <li><a title="Book an Appointment" href="booking">Book an Appointment</a></li>
+                              <!-- <li class="button-skew"><a class="donate-button" href="#"><span> Donate Now <i class="fa fa-heart"></i></span></a>
+                              </li> -->
+                           </ul>
+                        </div>
+                        <!-- end menu-1-container -->
+                     </div>
+                     <!-- /.navbar-collapse -->
+                  </div>
+                  <!-- end container -->
+               </nav>
+               <!-- /#peace-menu -->
+            </div>
+            <!-- /.menu-slider -->
+         </header>
 			<div id="page-title-bar" class="page-title-bar"></div>
 			<div class="site-content-contain">
 				<div id="content" class="site-content">

@@ -75,7 +75,7 @@ class Home extends CI_Controller
         /*  echo "<pre>";
         print_r($data);
         die('-------------'); */      
-        $this->load->view('front/events',$data, NULL);
+        $this->load->view('front/events_new',$data, NULL);
     }
     public function booking()
     {

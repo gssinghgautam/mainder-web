@@ -1427,6 +1427,15 @@
 				background: #151748;
 			}
 		}
+
+        .section-background-banner {
+            position: absolute;
+            height: 900px;
+            width: 100%;
+            background: url(assets/images/event_banner.jpeg);
+            background-position: center;
+            background-size: cover;
+        }
 	</style>
 	<link rel='stylesheet' id='otf-fonts-css'
 		href='https://fonts.googleapis.com/css?family=DM+Sans%3A400%7CStaatliches%3A400%7CDM+Sans%3A700&amp;subset=latin%2Clatin%2Clatin'
@@ -1469,7 +1478,7 @@
 	<div id="wptime-plugin-preloader"></div>
 	<div class="opal-wrapper">
 		<div id="page" class="site">
-        <header id="top-section">
+        <header id="top-section" style="background: #F7E4D9;">
             <div class="container">
                <div class="col-sm-4 hidden-xs address" style="display: flex;justify-content: center;align-items: center;">
                   <div>
@@ -1555,6 +1564,7 @@
          </header>
 			<div id="page-title-bar" class="page-title-bar"></div>
 			<div class="site-content-contain">
+            <div class="section-background-banner"></div>
 				<div id="content" class="site-content">
 					<div class="wrap">
 						<div id="primary" class="content-area">
@@ -1563,50 +1573,18 @@
 									data-elementor-settings="[]">
 									<div class="elementor-inner">
 										<div class="elementor-section-wrap">
-											<section
+											<!-- <section
 												class="elementor-element elementor-element-8ab8784 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 												data-id="8ab8784" data-element_type="section"
 												data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 												<div class="elementor-container elementor-column-gap-no">
 													<div class="elementor-row">
-														<div class="elementor-element elementor-element-131b390 elementor-column elementor-col-100 elementor-top-column"
-															data-id="131b390" data-element_type="column">
-															<div
-																class="elementor-column-wrap  elementor-element-populated">
-																<div class="elementor-widget-wrap">
-																	<div class="elementor-element elementor-element-f5ded26 animated-fast elementor-widget__width-initial elementor-absolute elementor-invisible elementor-widget elementor-widget-opal-revslider"
-																		data-id="f5ded26" data-element_type="widget"
-																		data-settings="{&quot;_animation&quot;:&quot;opal-move-up&quot;,&quot;_position&quot;:&quot;absolute&quot;}"
-																		data-widget_type="opal-revslider.default">
-																		<div class="elementor-widget-container">
-																			<img style="height: 840px;" src="events_banner.jpeg"/>
-																		</div>
-
-
-
-
-
-
-
-<div style="    position: absolute;
-    display: block;
-    visibility: visible;
-    left: 28px;
-    top: 211px;
-    z-index: 6;
-">
-
-
-
-
-
-																	</div>
-																</div>
-															</div>
-														</div>
+                                                        <div class="elementor-widget-container">
+                                                            <img style="height: 840px;" src="assets/images/event_banner.jpeg"/>
+                                                        </div>
 													</div>
 												</div>
-											</section>
+											</section> -->
 											<section
 												class="elementor-element elementor-element-10b99b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
 												data-id="10b99b5" data-element_type="section">

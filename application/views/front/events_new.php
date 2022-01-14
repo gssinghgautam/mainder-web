@@ -1,7 +1,5 @@
 <!doctype html>
 <html lang="en-US" class="no-js">
-<!-- Mirrored from demo2.wpopal.com/spker/home-2/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Dec 2021 07:58:46 GMT -->
-<!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
@@ -1765,46 +1763,7 @@
 													</div>
 												</div>
 											</section>
-											<section
-												class="elementor-element elementor-element-07c0911 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-												data-id="07c0911" data-element_type="section">
-												<div class="elementor-container elementor-column-gap-no">
-													<div class="elementor-row">
-														<div class="elementor-element elementor-element-c67db8a elementor-column elementor-col-100 elementor-top-column"
-															data-id="c67db8a" data-element_type="column">
-															<div
-																class="elementor-column-wrap  elementor-element-populated">
-																<div class="elementor-widget-wrap">
-																	<div class="elementor-element elementor-element-25a2114 elementor-align-left animated-fast elementor-invisible elementor-widget elementor-widget-heading"
-																		data-id="25a2114" data-element_type="widget"
-																		data-settings="{&quot;_animation&quot;:&quot;opal-move-up&quot;}"
-																		data-widget_type="heading.default">
-																		<div class="elementor-widget-container">
-																			<div class="heading-decor"><svg
-																					version="1.1"
-																					xmlns="http://www.w3.org/2000/svg"
-																					x="0" y="0" viewBox="0 0 35.3 16"
-																					xml:space="preserve">
-																					<g class="nc-icon-wrapper"
-																						stroke="none">
-																						<path fill-rule="evenodd"
-																							clip-rule="evenodd"
-																							d="M2.7 0C1.2 0 0 1.2 0 2.7c0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7C5.3 1.2 4.1 0 2.7 0zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7C0 14.8 1.2 16 2.7 16c1.5 0 2.7-1.2 2.7-2.7-.1-1.4-1.3-2.6-2.7-2.6zM12.7 0C11.2 0 10 1.2 10 2.7c0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7zM22.7 0C21.2 0 20 1.2 20 2.7c0 1.5 1.2 2.7 2.7 2.7s2.7-1.2 2.7-2.7C25.3 1.2 24.1 0 22.7 0zm0 10.7c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7s2.7-1.2 2.7-2.7c-.1-1.5-1.3-2.7-2.7-2.7zm10-5.4c1.5 0 2.7-1.2 2.7-2.7 0-1.5-1.2-2.7-2.7-2.7C31.2 0 30 1.2 30 2.7c0 1.4 1.2 2.6 2.7 2.6zm0 5.4c-1.5 0-2.7 1.2-2.7 2.7 0 1.5 1.2 2.7 2.7 2.7 1.5 0 2.7-1.2 2.7-2.7-.1-1.5-1.3-2.7-2.7-2.7z" />
-																					</g>
-																				</svg></div>
-																			<h2
-																				class="elementor-heading-title elementor-size-default">
-																				Upcoming <br>events</h2>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</section>
-										
-										
+									
 											
 											
 										</div>
@@ -1824,35 +1783,7 @@
 								<div class="elementor-section-wrap">
 									
 									
-									<section
-										class="elementor-element elementor-element-80ca209 elementor-section-stretched elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section"
-										data-id="80ca209" data-element_type="section"
-										data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
-										<div class="elementor-container elementor-column-gap-no">
-											<div class="elementor-row">
-												<div class="elementor-element elementor-element-85fcdc1 elementor-column elementor-col-100 elementor-top-column"
-													data-id="85fcdc1" data-element_type="column">
-													<div class="elementor-column-wrap  elementor-element-populated">
-														<div class="elementor-widget-wrap">
-															
-															
-															
-															<div class="elementor-element elementor-element-f55ee82 elementor-widget elementor-widget-text-editor"
-																data-id="f55ee82" data-element_type="widget"
-																data-widget_type="text-editor.default">
-																<div class="elementor-widget-container">
-																	<div
-																		class="elementor-text-editor elementor-clearfix">
-																		<p>Copyright © 2021 Hindu Sanatan Mandir Drammen, Norway</p>
-																	</div>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</section>
+					
 								</div>
 							</div>
 						</div>

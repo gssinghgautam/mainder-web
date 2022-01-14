@@ -102,14 +102,10 @@
                               </tr>
                               <tr>
                                  <td>Neelam Gupta</td>
-                                 <td>+47 93091196</td>
+                                 <td>+47 993 58 991</td>
                                  <td>DOTL Coordinator</td>
                               </tr>
-                              <tr>
-                                 <td>Hasmukh Mistry</td>
-                                 <td>+47 91628701</td>
-                                 <td>Barnnvern Leder</td>
-                              </tr>
+                             
                               
                               
                            </table>
@@ -152,4 +148,3 @@
 </section>
 <!-- blog page container -->
 <?php include('footerFront.php'); ?>
-
